@@ -28,3 +28,6 @@ build-stamp
 .pytest_cache/
 .mypy_cache/
 .benchmarks/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
